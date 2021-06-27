@@ -14,7 +14,7 @@ class Acousticform extends Widget_Base{
   }
 
   public function get_title(){
-    return 'Custom Elementor';
+    return 'Custom Elementor Widget';
   }
 
   public function get_icon(){
